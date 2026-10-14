@@ -65,7 +65,7 @@ The dataset contains employee demographics, job information, compensation, satis
 
 ## 🔗 Dashboard
 
-[View the Interactive Looker Studio Dashboard]([PASTE_YOUR_LOOKER_STUDIO_LINK_HERE](https://datastudio.google.com/reporting/9f097392-2ae4-48fc-b4de-b74b6692fa76))
+(https://datastudio.google.com/reporting/9f097392-2ae4-48fc-b4de-b74b6692fa76))
 
 ## 💡 Key Insights
 
